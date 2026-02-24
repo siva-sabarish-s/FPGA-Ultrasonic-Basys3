@@ -17,9 +17,9 @@ This project implements a real-time ultrasonic distance measurement system using
 - Distance measurement in centimeters
 - 4-digit multiplexed 7-segment display
 - LED distance indication:
-  -  < 10 cm → LED0 (Short)
+  -   less than 10 cm → LED0 (Short)
   -  10–30 cm → LED1 (Medium)
-  -  > 30 cm → LED2 (Long) 
+  -  more than 30 cm → LED2 (Long) 
 - 100 MHz clock operation
 - Proper echo timing calculation
 - Voltage protection for FPGA (3.3V logic)
