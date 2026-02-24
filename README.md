@@ -19,7 +19,7 @@ This project implements a real-time ultrasonic distance measurement system using
 - LED distance indication:
   - < 10 cm → LED0 (Short)
   - 10–30 cm → LED1 (Medium)
-  - > 30 cm → LED2 (Long)
+  - > 30 cm → LED2 (Long) 
 - 100 MHz clock operation
 - Proper echo timing calculation
 - Voltage protection for FPGA (3.3V logic)
